@@ -1,0 +1,1 @@
+These are my exercises and projects when I was studying "Learn Python The Hard Way".
